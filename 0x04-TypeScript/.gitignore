@@ -1,0 +1,6 @@
+*.json
+node_modules
+babel.config.js
+nodesource_setup.sh
+webpack.config.js
+.eslintrc.js
